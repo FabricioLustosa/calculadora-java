@@ -1,6 +1,6 @@
 **Calculadora Java - Console**
 
-Projeto de calculadora intertiva via terminal desenvolvido
+Projeto de calculadora interativa via terminal desenvolvido
  em Java puro como parte da minha trilha de estudos para construção de 
 portfólio.
 
